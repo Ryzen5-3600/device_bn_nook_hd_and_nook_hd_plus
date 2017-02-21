@@ -9,7 +9,7 @@
            review="gerrit.omnirom.org"
            revision="android-7.1" />
 
-  <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="airend" />
+  <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="airend" revision="stable" />
 
   <project path="device/bn/common" name="android_device_bn_common" remote="airend" />
   <project path="device/bn/ovation" name="android_device_bn_ovation" remote="airend" />
