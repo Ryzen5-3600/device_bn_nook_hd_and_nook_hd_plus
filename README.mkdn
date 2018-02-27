@@ -1,5 +1,5 @@
 LineageOS
-===========
+=========
 
 Submitting Patches
 ------------------
@@ -33,7 +33,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/airend/android.git -b cm-14
+    repo init -u git://github.com/secretwolf98/device_bn_nook_hd_and_nook_hd_plus.git -b cm-14
 
 Then to sync up:
 
